@@ -1,0 +1,38 @@
+{
+  "name": "project-myonmir",
+  "version": "0.0.8",
+  "description": "Peroclate Galactic's Official Build System",
+  "main": "js/root.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "postcss-loader": "^1.3.3",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "css-loader": "^0.26.2",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0",
+    "style-loader": "^0.13.2",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snazzyham/myonmir.git"
+  },
+  "keywords": [
+    "Build",
+    "System"
+  ],
+  "author": "Soham Adwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snazzyham/myonmir/issues"
+  },
+  "homepage": "https://github.com/snazzyham/myonmir#readme"
+}
